@@ -4,7 +4,7 @@
       "Form_Factor": "1FF",
       "Standard": "ISO/IEC 7810:2003, ID-1",
       "Dimensions": {
-        "Iso": {
+        "Imperial": {
           "Height": "3.37 in",
           "Width": "2.12 in",
           "Depth": "0.02992 in"
@@ -20,7 +20,7 @@
       "Form_Factor": "2FF",
       "Standard": "ISO/IEC 7810:2003, ID-000",
       "Dimensions": {
-        "Iso": {
+        "Imperial": {
           "Height": "0.98425 in",
           "Width": "0.59055 in",
           "Depth": "0.02992 in"
@@ -36,7 +36,7 @@
       "Form_Factor": "3FF",
       "Standard": "ETSI TS 102 221 V9.0.0, Mini-UICC",
       "Dimensions": {
-        "Iso": {
+        "Imperial": {
           "Height": "0.59055 in",
           "Width": "0.47244 in",
           "Depth": "0.02992 in"
@@ -52,7 +52,7 @@
       "Form_Factor": "4FF",
       "Standard": "ETSI TS 102 221 V11.0.0",
       "Dimensions": {
-        "Iso": {
+        "Imperial": {
           "Height": "0.48425 in",
           "Width": "0.34645 in",
           "Depth": "0.02637 in"
@@ -68,7 +68,7 @@
       "Form_Factor": "null",
       "Standard": "JEDEC Design Guide 4.8, SON-8",
       "Dimensions": {
-        "Iso": {
+        "Imperial": {
           "Height": "0.23622 in",
           "Width": "0.19685 in",
           "Depth": "0.03937 in"
