@@ -1,0 +1,84 @@
+{
+  "Sim_Card_Specifications": {
+    "Full_Size": {
+      "Form_Factor": "1FF",
+      "Standard": "ISO/IEC 7810:2003, ID-1",
+      "Dimensions": {
+        "Iso": {
+          "Height": "3.37 in",
+          "Width": "2.12 in",
+          "Depth": "0.02992 in"
+        },
+        "Metric": {
+          "Height": "85.6 mm",
+          "Width": "53.98 mm",
+          "Depth": "0.76 mm"
+        }
+      }
+    },
+    "Mini-SIM": {
+      "Form_Factor": "2FF",
+      "Standard": "ISO/IEC 7810:2003, ID-000",
+      "Dimensions": {
+        "Iso": {
+          "Height": "0.98425 in",
+          "Width": "0.59055 in",
+          "Depth": "0.02992 in"
+        },
+        "Metric": {
+          "Height": "25 mm",
+          "Width": "15 mm",
+          "Depth": "0.76 mm"
+        }
+      }
+    },
+    "Micro-SIM": {
+      "Form_Factor": "3FF",
+      "Standard": "ETSI TS 102 221 V9.0.0, Mini-UICC",
+      "Dimensions": {
+        "Iso": {
+          "Height": "0.59055 in",
+          "Width": "0.47244 in",
+          "Depth": "0.02992 in"
+        },
+        "Metric": {
+          "Height": "15 mm",
+          "Width": "12 mm",
+          "Depth": "0.76 mm"
+        }
+      }
+    },
+    "Nano-SIM": {
+      "Form_Factor": "4FF",
+      "Standard": "ETSI TS 102 221 V11.0.0",
+      "Dimensions": {
+        "Iso": {
+          "Height": "0.48425 in",
+          "Width": "0.34645 in",
+          "Depth": "0.02637 in"
+        },
+        "Metric": {
+          "Height": "12.3 mm",
+          "Width": "8.8 mm",
+          "Depth": "0.67 mm"
+        }
+      }
+    },
+    "Embedded-SIM": {
+      "Form_Factor": "null",
+      "Standard": "JEDEC Design Guide 4.8, SON-8",
+      "Dimensions": {
+        "Iso": {
+          "Height": "0.23622 in",
+          "Width": "0.19685 in",
+          "Depth": "0.03937 in"
+        },
+        "Metric": {
+          "Height": "6 mm",
+          "Width": "5 mm",
+          "Depth": "0.99 mm"
+        }
+      }
+    }
+  }
+}
